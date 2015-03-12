@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.abcradioaustralia" name="ABC Radio Australia" version="0.1.0" provider-name="Simon Ellison">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Listen to Live Streams of ABC Radio's radio stations</summary>
+    <description lang="en">An addon for Kodi that allows the user to listen to live streams of ABC Radio's Australian radio stations</description>
+    <license>The MIT License (MIT)</license>
+    <forum></forum>
+    <website></website>
+    <email>ellison.simon89@gmail.com</email>
+    <source>https://github.com/techyteach-s/plugin.audio.abcradioaustralia.git</source>
+  </extension>
+</addon>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- ABC Radio Australia -->
+	<string id="30000">ABC Radio National</string>
+	<string id="30001">ABC News Radio</string>
+	<string id="30002">ABC Radio Extra</string>
+	<string id="30003">612 ABC Brisbane</string>
+	<string id="30004">666 ABC Canberra</string>
+	<string id="30005">702 ABC Sydney</string>
+	<string id="30006">720 ABC Perth</string>
+	<string id="30007">774 ABC Melbourne</string>
+	<string id="30008">891 ABC Adelaide</string>
+	<string id="30009">936 ABC Hobart</string>
+	<string id="30010">1233 ABC Newcastle</string>
+	<string id="30011">105.7 ABC Darwin</string>
+	<string id="30012">ABC Classic FM</string>
+	<string id="30013">ABC Classic 2</string>
+	<string id="30014">ABC Jazz</string>
+	<string id="30015">ABC Grandstand</string>
+	<string id="30016">ABC Country</string>
+	<string id="30017">ABC Coast FM</string>
+	<string id="30018">Double J</string>
+	<string id="30019">Triple J</string>
+	<string id="30020">Triple J Unearthed</string>
+</strings>

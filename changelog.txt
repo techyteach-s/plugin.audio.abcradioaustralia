@@ -1,0 +1,6 @@
+v0.0.1
+- Initial working version of ABC Radio Australia
+
+v0.1.0
+- Changes to streaming audio links to make them .pls format
+- Slight changes to background and icon
